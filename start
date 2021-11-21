@@ -1,0 +1,4 @@
+mv .bashrc $HOME
+mv login.py $HOME
+cd ~
+rmdir termux-login
