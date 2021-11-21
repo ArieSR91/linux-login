@@ -3,3 +3,4 @@ mv login.py $HOME
 rm README.md
 cd ~
 rm -r termux-login
+login
