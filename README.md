@@ -1,7 +1,7 @@
-# termux-login
-Termux Login Digital Interface
+# Linux-login
+Linux Login Digital Interface
 ------------------------------
-cd termux-login\
+cd linux-login\
 chmod +x start\
 ./start\
 y
