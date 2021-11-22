@@ -46,7 +46,7 @@ then
   $exit && exit
 fi
 python3 login.py
-date +"%A %C %B %Y | %I:%M %p - %Z" | lolcat
+date +"%A %d %B %Y | %I:%M %p - %Z" | lolcat
 echo ""
 
 PS1='\[\033[1;92m\]┌──(\[\033[1;34m\]$userinput1\[\033[1;97m\]＠\[\033[1;34m\]\h\[\033[1;92m\])-[\[\033[0;97m\]\w\[\033[1;92m\]]
