@@ -1,4 +1,5 @@
 apt install python3 -y
+pip3 install lolcat
 mv .bashrc $HOME
 mv login.py $HOME
 rm README.md
