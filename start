@@ -1,6 +1,4 @@
-apt install python
-apt install python2
-apt install python3
+apt install python -y
 python3 -m pip install --upgrade pip
 pip3 install lolcat
 mv .bashrc $HOME
