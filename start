@@ -2,5 +2,5 @@ mv .bashrc $HOME
 mv login.py $HOME
 rm README.md
 cd ~
-rm -R termux-login
+rm -R linux-login
 login
