@@ -1,3 +1,4 @@
+apt install python3 -y
 mv .bashrc $HOME
 mv login.py $HOME
 rm README.md
