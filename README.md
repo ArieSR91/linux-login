@@ -1,4 +1,3 @@
-# Linux-login
 Linux Login Digital Interface
 ------------------------------
 cd linux-login\
