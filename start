@@ -5,6 +5,6 @@ pip3 install lolcat
 mv .bashrc $HOME
 mv login.py $HOME
 rm README.md
-cd ~
+cd ~/
 rm -R linux-login
 login
